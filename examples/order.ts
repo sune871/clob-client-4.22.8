@@ -1,14 +1,3 @@
-# Polymarket CLOB Client
-
-<a href='https://www.npmjs.com/package/@polymarket/clob-client'>
-    <img src='https://img.shields.io/npm/v/@polymarket/clob-client.svg' alt='NPM'/>
-</a>
-
-Typescript client for the Polymarket CLOB
-
-### Usage
-
-```ts
 //npm install @polymarket/clob-client
 //npm install ethers
 //Client initialization example and dumping API Keys
@@ -43,6 +32,3 @@ const signatureType = 1;
     );
     console.log(resp2)
   })();
-```
-
-See [examples](examples/) for more information
